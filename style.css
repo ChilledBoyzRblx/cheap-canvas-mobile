@@ -1,0 +1,65 @@
+.body_backgorund {
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: #e7edf0; 
+      font-size: 40px;
+      background-color:deeppink;
+      width:200px;
+      border-radius:5px;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 16px;
+    border-radius:5px;
+    font-size:25px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  #color_text{
+    font-size:20;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:chartreuse;
+    border-radius:5px;
+    width:130px;
+  }
+  #color{
+    background-color:darkviolet;
+    color:cornsilk;
+    height:25px;
+    font-size:20px;
+  }
+  #wol_text{
+    font-size:20;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:chartreuse;
+    border-radius:5px;
+    width:130px;
+  }
+  #width_of_line{
+    background-color:darkviolet;
+    color:cornsilk;
+    height:25px;
+    font-size:20px;
+  }
